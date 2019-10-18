@@ -3,3 +3,4 @@
 %uri=https://github.com/sqitchers/sqitch-intro/
 
 appschema 2019-10-18T16:04:26Z Anthony Harvey <anthony@anthonygharvey.com> # Add schema for all flipr objects.
+users [appschema] 2019-10-18T17:09:21Z Anthony Harvey <anthony@anthonygharvey.com> # Creates table to track our users
