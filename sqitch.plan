@@ -4,3 +4,4 @@
 
 appschema 2019-10-18T16:04:26Z Anthony Harvey <anthony@anthonygharvey.com> # Add schema for all flipr objects.
 users [appschema] 2019-10-18T17:09:21Z Anthony Harvey <anthony@anthonygharvey.com> # Creates table to track our users
+insert_user [users appschema] 2019-10-18T19:21:06Z Anthony Harvey <anthony@anthonygharvey.com> # Creates a function to insert a user.
